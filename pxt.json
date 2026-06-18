@@ -1,0 +1,12 @@
+{
+    "name": "minecraft-3d",
+    "version": "1.0.0",
+    "description": "Minecraft-style 3D (raycasting) for MakeCode Arcade",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "raycasting": "github:AqeeAqee/pxt-raycasting"
+    },
+    "files": ["main.ts"],
+    "targetVersions": { "target": "arcade" }
+}
